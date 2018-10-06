@@ -87,3 +87,7 @@ _testmain.go
 *.swp
 .idea/inspectionProfiles/Project_Default.xml
 .idea/misc.xml
+
+.cert/
+.bash_profile
+.workshop.k8s.ca.crt
